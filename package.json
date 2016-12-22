@@ -1,5 +1,5 @@
 {
-  "name": "s2cover",
+  "name": "@mapbox/s2cover",
   "version": "0.1.1",
   "description": "cover-extract =============",
   "main": "index.js",
